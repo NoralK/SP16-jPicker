@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="eb2bf999-1da0-4073-a92a-724fac9eb071" solutionId="eb2bf999-1da0-4073-a92a-724fac9eb071" resetWebServer="false" sharePointProductVersion="16.0" name="jPicker" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="42ec83b7-4d7a-4341-841f-8ceb57d77354" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="4fd97ee4-ea31-49be-974f-6772f402b363" />
+    <projectItemReference itemId="f0fc01bd-d507-473a-8607-e1c74e08789b" />
+  </projectItems>
+</package>

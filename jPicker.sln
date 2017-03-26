@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "jPicker", "jPicker\jPicker.vbproj", "{BFDEE5B5-D417-49D4-8178-FE7D5B416165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFDEE5B5-D417-49D4-8178-FE7D5B416165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDEE5B5-D417-49D4-8178-FE7D5B416165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDEE5B5-D417-49D4-8178-FE7D5B416165}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BFDEE5B5-D417-49D4-8178-FE7D5B416165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDEE5B5-D417-49D4-8178-FE7D5B416165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDEE5B5-D417-49D4-8178-FE7D5B416165}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
